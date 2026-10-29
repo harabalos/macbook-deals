@@ -625,7 +625,7 @@ def main():
         return
 
     telegram_ready = os.environ.get("TELEGRAM_BOT_TOKEN") and os.environ.get("TELEGRAM_CHAT_ID")
-    if os.environ.get("GITHUB_ACTIONS") == "true" and not telegram_ready:
+    if os.environ.get("GITHUB_ACTIONS") == "true" and not telegram_ready and not args.dry_run:
         # don't record a baseline nobody was told about; the first run with secrets does that
         print("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secrets are not set yet: skipping this run.")
         return

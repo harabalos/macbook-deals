@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/5 * * * *"   # GitHub's minimum; runs can start a few minutes late
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test only: print alerts in the log, send and save nothing"
+        type: boolean
+        default: false
 
 # one check at a time; a run that is still going makes the next one wait
 concurrency:
@@ -31,7 +36,7 @@ jobs:
       - run: command -v google-chrome || python -m playwright install --with-deps chromium
 
       - name: Check stores and newsletters
-        run: python watcher.py
+        run: python watcher.py ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -41,7 +46,7 @@ jobs:
 
       # remember prices for the next run (also keeps the schedule from being paused for inactivity)
       - name: Save state
-        if: always()
+        if: always() && !inputs.dry_run
         run: |
           [ -f state.json ] || exit 0
           git config user.name "macbook-deals-bot"
