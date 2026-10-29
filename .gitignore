@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+# secrets never go in the repo: they live in GitHub Secrets
+.env
+.env.*
+*.env
