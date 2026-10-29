@@ -38,6 +38,8 @@ jobs:
       - name: Check stores and newsletters
         run: python watcher.py ${{ inputs.dry_run && '--dry-run' || '' }}
         env:
+          # Plaisio answers 403 to GitHub's servers; its prices still show up via BestPrice
+          SKIP_SOURCES: plaisio
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           IMAP_HOST: ${{ secrets.IMAP_HOST }}

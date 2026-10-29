@@ -573,10 +573,11 @@ def run_once(dry_run=False, only=None):
     state = load_state()
     brand_new = not state.get("products")
     alerts, summary = [], {}
+    skip = set(os.environ.get("SKIP_SOURCES", "").replace(",", " ").split())
     browser = Browser()
     try:
         for name, fn in SOURCES.items():
-            if only and name not in only:
+            if (only and name not in only) or name in skip:
                 continue
             started = time.time()
             try:
