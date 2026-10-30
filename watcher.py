@@ -30,13 +30,13 @@ from zoneinfo import ZoneInfo
 
 # ---------------------------------------------------------------- settings --
 
-LOUD_DROP_EUR = 100      # loud alert when a price drops by at least this much...
+# Messages only arrive for real deals (plus a broken source, and one quiet note a week).
+LOUD_DROP_EUR = 100      # alert when a price drops by at least this much...
 LOUD_DROP_PCT = 5        # ...or by at least this many percent
-QUIET_DROP_EUR = 20      # smaller drops (>= this) still arrive, without sound
-BIG_DISCOUNT_PCT = 15    # store shows >= 15% off its own old price -> loud alert
+BIG_DISCOUNT_PCT = 15    # store shows >= 15% off its own old price -> alert
 FAILS_BEFORE_ALERT = 3   # consecutive failed runs before "source is broken"
-MISSING_RUNS_FOR_RETURN = 3  # gone this many runs, then back -> "back" alert
-DAILY_REPORT_HOUR = 9    # Athens time, quiet "still alive" summary
+MISSING_RUNS_FOR_RETURN = 3  # gone this many runs, then back with a discount -> alert
+WEEKLY_REPORT = (0, 9)   # Monday 09:00 Athens: quiet "still alive" note (None = never)
 MAX_MESSAGES_PER_RUN = 15
 
 TZ = ZoneInfo("Europe/Athens")
@@ -50,9 +50,6 @@ NOT_A_LAPTOP = re.compile(
 
 WANTED = re.compile(r"mac\s?book\s+pro\b", re.I)  # "Apple MacBook Pro 14 M5", not "MacBook Neo (A18 Pro)"
 MAIL_LOUD = re.compile(r"mac\s?book\s?pro", re.I)
-MAIL_QUIET = re.compile(r"\b(apple|mac|black\s?friday|cyber\s?monday)\b|mac\s?book|προσφορ|εκπτώσ|εκπτωσ", re.I)
-STORE_SENDERS = ("kotsovolos", "plaisio", "public", "mediamarkt", "bestprice", "skroutz",
-                 "istorm", "you.gr", "kaitatzis", "e-shop", "germanos", "apple")
 
 STORE_NAMES = {
     "plaisio": "Πλαίσιο",
@@ -411,7 +408,6 @@ def check_newsletters(state, alerts):
             msg = email.message_from_bytes(raw)
             subject, sender = decode(msg["Subject"]), decode(msg["From"])
             text, links = mail_text(msg)
-            from_store = any(s in sender.lower() for s in STORE_SENDERS)
             hit = MAIL_LOUD.search(subject + " " + text)
             if hit:
                 a = max(0, hit.start() - len(subject) - 120)
@@ -420,8 +416,6 @@ def check_newsletters(state, alerts):
                          f"«{esc(subject)}»", f"…{esc(snippet)}…"]
                 lines += [f"👉 {esc(link)}" for link in links[:3]]
                 alerts.append(("\n".join(lines), True))
-            elif from_store and MAIL_QUIET.search(subject + " " + text):
-                alerts.append((f"📧 {esc(sender)}\n«{esc(subject)}»", False))
         mail["last_uid"] = max(uids + [last])
     finally:
         try:
@@ -454,32 +448,27 @@ def compare(state, store, items, alerts):
         }
         products[key] = rec
         off = (it["old_price"] - price) / it["old_price"] * 100 if it["old_price"] else 0
+        discounted = off >= BIG_DISCOUNT_PCT
         shown_off = f"{eur(it['old_price'])} → " if it["old_price"] else ""
         extra = f"\n{esc(it['note'])}" if it["note"] else ""
-        if old is None:
-            if first_time and off < BIG_DISCOUNT_PCT:
-                continue
-            title = (f"🔥 <b>Έκπτωση −{off:.0f}% (−{eur(it['old_price'] - price)})</b>"
-                     if off >= BIG_DISCOUNT_PCT else "🆕 <b>Νέο MacBook στη λίστα</b>")
-            alerts.append((f"{title}\n<b>{shop}</b>: {esc(it['name'])}\n"
-                           f"{shown_off}<b>{eur(price)}</b>{extra}\n👉 {it['url']}",
-                           off >= BIG_DISCOUNT_PCT))
+        if old is None:  # new listing: only worth a message if it already carries a discount
+            if discounted:
+                alerts.append((f"🔥 <b>Έκπτωση −{off:.0f}% (−{eur(it['old_price'] - price)})</b>\n"
+                               f"<b>{shop}</b>: {esc(it['name'])}\n"
+                               f"{shown_off}<b>{eur(price)}</b>{extra}\n👉 {it['url']}", True))
             continue
         drop = old["price"] - price
         pct = drop / old["price"] * 100
-        if drop >= QUIET_DROP_EUR:
-            loud = drop >= LOUD_DROP_EUR or pct >= LOUD_DROP_PCT
-            icon = "🚨" if pct >= 25 else ("🔥" if loud else "📉")
+        back = (old.get("in_stock") is False and it["in_stock"]) or old.get("missing", 0) >= MISSING_RUNS_FOR_RETURN
+        if drop >= LOUD_DROP_EUR or pct >= LOUD_DROP_PCT:
+            icon = "🚨" if pct >= 25 else "🔥"
             low_note = " (χαμηλότερη που έχω δει)" if price <= old["low"] else f" (χαμηλότερη: {eur(old['low'])})"
             alerts.append((f"{icon} <b>Πτώση τιμής −{eur(drop)} (−{pct:.0f}%)</b>\n"
                            f"<b>{shop}</b>: {esc(it['name'])}\n"
-                           f"{eur(old['price'])} → <b>{eur(price)}</b>{low_note}{extra}\n👉 {it['url']}", loud))
-        elif old.get("in_stock") is False and it["in_stock"]:
-            alerts.append((f"✅ <b>Ξανά διαθέσιμο</b>\n<b>{shop}</b>: {esc(it['name'])}\n"
-                           f"<b>{eur(price)}</b>{extra}\n👉 {it['url']}", True))
-        elif old.get("missing", 0) >= MISSING_RUNS_FOR_RETURN:
-            alerts.append((f"↩️ <b>Ξαναεμφανίστηκε</b>\n<b>{shop}</b>: {esc(it['name'])}\n"
-                           f"<b>{eur(price)}</b>{extra}\n👉 {it['url']}", True))
+                           f"{eur(old['price'])} → <b>{eur(price)}</b>{low_note}{extra}\n👉 {it['url']}", True))
+        elif back and discounted:  # a sold-out deal is buyable again
+            alerts.append((f"✅ <b>Ξανά διαθέσιμο με −{off:.0f}%</b>\n<b>{shop}</b>: {esc(it['name'])}\n"
+                           f"{shown_off}<b>{eur(price)}</b>{extra}\n👉 {it['url']}", True))
     for key, rec in products.items():
         if key.startswith(prefix) and key not in seen:
             rec["missing"] = min(rec.get("missing", 0) + 1, MISSING_RUNS_FOR_RETURN)
@@ -504,17 +493,20 @@ def source_failed(state, name, err, alerts):
                        f"<code>{esc(h['error'])}</code>", True))
 
 
-def daily_report(state, alerts, force=False):
+def weekly_report(state, alerts, force=False):
     now = datetime.now(TZ)
-    today = now.date().isoformat()
-    if not force and (now.hour < DAILY_REPORT_HOUR or state.get("daily") == today):
+    week = now.strftime("%G-W%V")
+    if state.pop("daily", None):  # the old daily note already went out this week
+        state.setdefault("report", week)
+    if not force and (not WEEKLY_REPORT or state.get("report") == week
+                      or (now.weekday(), now.hour) < WEEKLY_REPORT):
         return
-    state["daily"] = today
+    state["report"] = week  # also a weekly commit, so GitHub never pauses the schedule
     live = [(k.split("|")[0], p) for k, p in state.get("products", {}).items() if not p.get("missing")]
     counts = {}
     for store, _ in live:
         counts[store] = counts.get(store, 0) + 1
-    lines = ["🟢 <b>Το bot δουλεύει</b>",
+    lines = ["🟢 <b>Το bot δουλεύει</b> (εβδομαδιαίο μήνυμα)",
              " · ".join(f"{STORE_NAMES[s].split(' (')[0]}: {n}" for s, n in sorted(counts.items()))]
     for size in ("14", "16"):
         options = [(p["price"], s, p) for s, p in live
@@ -601,7 +593,7 @@ def run_once(dry_run=False, only=None):
         except Exception as e:
             source_failed(state, "newsletter", f"{type(e).__name__}: {e}", alerts)
             summary["newsletter"] = "FAILED"
-    daily_report(state, alerts, force=brand_new)
+    weekly_report(state, alerts, force=brand_new)
     if brand_new:
         alerts.insert(0, ("🚀 <b>Ξεκίνησα!</b> Από εδώ και πέρα θα σου στέλνω κάθε πτώση τιμής σε MacBook Pro.", True))
     save_state(state)
