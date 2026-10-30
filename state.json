@@ -1,0 +1,1330 @@
+{
+ "daily": "2026-10-30",
+ "health": {},
+ "mail": {
+  "last_uid": 1145,
+  "uidvalidity": 1
+ },
+ "products": {
+  "bestprice|www.bestprice.gr/item/2156355135/apple-macbook-pro-13-2020.html": {
+   "high": 1437.04,
+   "in_stock": true,
+   "low": 1437.04,
+   "missing": 0,
+   "name": "Apple MacBook Pro 13\" 2020 (M1 chip 8-Core/8GB/256GB SSD/8-Core GPU)",
+   "old_price": null,
+   "price": 1437.04,
+   "url": "https://www.bestprice.gr/item/2156355135/apple-macbook-pro-13-2020.html"
+  },
+  "bestprice|www.bestprice.gr/item/2157069686/apple-macbook-pro-14-2021.html": {
+   "high": 3184.0,
+   "in_stock": true,
+   "low": 3184.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2021 (M1 Pro chip 10-Core/16GB/1TB SSD/16-Core GPU)",
+   "old_price": null,
+   "price": 3184.0,
+   "url": "https://www.bestprice.gr/item/2157069686/apple-macbook-pro-14-2021.html"
+  },
+  "bestprice|www.bestprice.gr/item/2157069689/apple-macbook-pro-16-2021.html": {
+   "high": 3778.0,
+   "in_stock": true,
+   "low": 3778.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2021 (M1 Max chip 10-Core/32GB/1TB SSD/32-Core GPU)",
+   "old_price": null,
+   "price": 3778.0,
+   "url": "https://www.bestprice.gr/item/2157069689/apple-macbook-pro-16-2021.html"
+  },
+  "bestprice|www.bestprice.gr/item/2157660418/apple-macbook-pro-13-2022.html": {
+   "high": 1499.0,
+   "in_stock": true,
+   "low": 1499.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 13\" 2022 (M2 chip 8-Core/8GB/256GB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 1499.0,
+   "url": "https://www.bestprice.gr/item/2157660418/apple-macbook-pro-13-2022.html"
+  },
+  "bestprice|www.bestprice.gr/item/2159167301/apple-macbook-pro-14-2023.html": {
+   "high": 1470.65,
+   "in_stock": true,
+   "low": 1470.65,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2023 (M3 chip 8-Core/8GB/512GB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 1470.65,
+   "url": "https://www.bestprice.gr/item/2159167301/apple-macbook-pro-14-2023.html"
+  },
+  "bestprice|www.bestprice.gr/item/2159170509/apple-macbook-pro-14-2023.html": {
+   "high": 1603.69,
+   "in_stock": true,
+   "low": 1603.69,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2023 (M3 chip 8-Core/8GB/1TB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 1603.69,
+   "url": "https://www.bestprice.gr/item/2159170509/apple-macbook-pro-14-2023.html"
+  },
+  "bestprice|www.bestprice.gr/item/2160088416/apple-macbook-pro-14-2024.html": {
+   "high": 1855.0,
+   "in_stock": true,
+   "low": 1855.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro 14\" 2024 (M4 chip 10-Core/16GB/512GB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 1855.0,
+   "url": "https://www.bestprice.gr/item/2160088416/apple-macbook-pro-14-2024.html"
+  },
+  "bestprice|www.bestprice.gr/item/2160088421/apple-macbook-pro-14-2024.html": {
+   "high": 4099.0,
+   "in_stock": true,
+   "low": 4099.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro 14\" 2024 (M4 Max chip 14-Core/36GB/1TB SSD/32-Core GPU)",
+   "old_price": null,
+   "price": 4099.0,
+   "url": "https://www.bestprice.gr/item/2160088421/apple-macbook-pro-14-2024.html"
+  },
+  "bestprice|www.bestprice.gr/item/2162794420/apple-macbook-pro-14-2023.html": {
+   "high": 2129.9,
+   "in_stock": true,
+   "low": 2129.9,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2023 (M3 chip 8-Core/16GB/512GB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 2129.9,
+   "url": "https://www.bestprice.gr/item/2162794420/apple-macbook-pro-14-2023.html"
+  },
+  "bestprice|www.bestprice.gr/item/2162809637/apple-macbook-pro-14-2025.html": {
+   "high": 1399.99,
+   "in_stock": true,
+   "low": 1399.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/16GB/1TB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 1399.99,
+   "url": "https://www.bestprice.gr/item/2162809637/apple-macbook-pro-14-2025.html"
+  },
+  "bestprice|www.bestprice.gr/item/2162809639/apple-macbook-pro-14-2025.html": {
+   "high": 2385.0,
+   "in_stock": true,
+   "low": 2385.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/24GB/1TB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 2385.0,
+   "url": "https://www.bestprice.gr/item/2162809639/apple-macbook-pro-14-2025.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163724842/apple-macbook-pro-14-2026.html": {
+   "high": 2661.58,
+   "in_stock": true,
+   "low": 2661.58,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 15-Core/24GB/1TB SSD/16-Core GPU)",
+   "old_price": null,
+   "price": 2661.58,
+   "url": "https://www.bestprice.gr/item/2163724842/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163724843/apple-macbook-pro-14-2026.html": {
+   "high": 4402.4,
+   "in_stock": true,
+   "low": 4402.4,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Max Chip 18-Core/36GB/2TB SSD/32-Core GPU)",
+   "old_price": null,
+   "price": 4402.4,
+   "url": "https://www.bestprice.gr/item/2163724843/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163724844/apple-macbook-pro-14-2026.html": {
+   "high": 6429.9,
+   "in_stock": true,
+   "low": 6429.9,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Max Chip 18-Core/48GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 6429.9,
+   "url": "https://www.bestprice.gr/item/2163724844/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163724845/apple-macbook-pro-16-2026.html": {
+   "high": 3311.3,
+   "in_stock": true,
+   "low": 3311.3,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/24GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 3311.3,
+   "url": "https://www.bestprice.gr/item/2163724845/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163724846/apple-macbook-pro-16-2026.html": {
+   "high": 4756.95,
+   "in_stock": true,
+   "low": 4756.95,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/36GB/2TB SSD/32-Core GPU)",
+   "old_price": null,
+   "price": 4756.95,
+   "url": "https://www.bestprice.gr/item/2163724846/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163724847/apple-macbook-pro-16-2026.html": {
+   "high": 5193.95,
+   "in_stock": true,
+   "low": 5193.95,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/48GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 5193.95,
+   "url": "https://www.bestprice.gr/item/2163724847/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163726546/apple-macbook-pro-14-2026.html": {
+   "high": 3173.56,
+   "in_stock": true,
+   "low": 3173.56,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 15-Core/24GB/2TB SSD/16-Core GPU)",
+   "old_price": null,
+   "price": 3173.56,
+   "url": "https://www.bestprice.gr/item/2163726546/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163726547/apple-macbook-pro-14-2026.html": {
+   "high": 3378.3,
+   "in_stock": true,
+   "low": 3378.3,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/24GB/2TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 3378.3,
+   "url": "https://www.bestprice.gr/item/2163726547/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163726548/apple-macbook-pro-16-2026.html": {
+   "high": 3780.58,
+   "in_stock": true,
+   "low": 3780.58,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/48GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 3780.58,
+   "url": "https://www.bestprice.gr/item/2163726548/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163726549/apple-macbook-pro-14-2025.html": {
+   "high": 2699.0,
+   "in_stock": true,
+   "low": 2699.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/32GB/1TB SSD/10-Core GPU)",
+   "old_price": null,
+   "price": 2699.0,
+   "url": "https://www.bestprice.gr/item/2163726549/apple-macbook-pro-14-2025.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873666/apple-macbook-pro-16-2026-nano-texture.html": {
+   "high": 9498.9,
+   "in_stock": true,
+   "low": 9498.9,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 Nano-Texture (M5 Max Chip 18-Core/128GB/4TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 9498.9,
+   "url": "https://www.bestprice.gr/item/2163873666/apple-macbook-pro-16-2026-nano-texture.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873667/apple-macbook-pro-16-2026.html": {
+   "high": 9328.89,
+   "in_stock": true,
+   "low": 9328.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/128GB/4TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 9328.89,
+   "url": "https://www.bestprice.gr/item/2163873667/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873668/apple-macbook-pro-14-2026.html": {
+   "high": 9048.89,
+   "in_stock": true,
+   "low": 9048.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Max Chip 18-Core/128GB/4TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 9048.89,
+   "url": "https://www.bestprice.gr/item/2163873668/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873669/apple-macbook-pro-16-2026.html": {
+   "high": 8198.89,
+   "in_stock": true,
+   "low": 8198.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/128GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 8198.89,
+   "url": "https://www.bestprice.gr/item/2163873669/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873670/apple-macbook-pro-16-2026-nano-texture.html": {
+   "high": 8378.89,
+   "in_stock": true,
+   "low": 8378.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 Nano-Texture (M5 Max Chip 18-Core/128GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 8378.89,
+   "url": "https://www.bestprice.gr/item/2163873670/apple-macbook-pro-16-2026-nano-texture.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873671/apple-macbook-pro-16-2026.html": {
+   "high": 7548.88,
+   "in_stock": true,
+   "low": 7548.88,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/64GB/4TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 7548.88,
+   "url": "https://www.bestprice.gr/item/2163873671/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873672/apple-macbook-pro-16-2026.html": {
+   "high": 6948.89,
+   "in_stock": true,
+   "low": 6948.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/48GB/4TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 6948.89,
+   "url": "https://www.bestprice.gr/item/2163873672/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873673/apple-macbook-pro-16-2026.html": {
+   "high": 6418.88,
+   "in_stock": true,
+   "low": 6418.88,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/64GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 6418.88,
+   "url": "https://www.bestprice.gr/item/2163873673/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873674/apple-macbook-pro-14-2026.html": {
+   "high": 7858.88,
+   "in_stock": true,
+   "low": 7858.88,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Max Chip 18-Core/128GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 7858.88,
+   "url": "https://www.bestprice.gr/item/2163873674/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873675/apple-macbook-pro-14-2026-nano-texture.html": {
+   "high": 7348.88,
+   "in_stock": true,
+   "low": 7348.88,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 Nano-Texture (M5 Max Chip 18-Core/64GB/4TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 7348.88,
+   "url": "https://www.bestprice.gr/item/2163873675/apple-macbook-pro-14-2026-nano-texture.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873899/apple-macbook-pro-16-2026.html": {
+   "high": 5328.89,
+   "in_stock": true,
+   "low": 5328.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/64GB/2TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 5328.89,
+   "url": "https://www.bestprice.gr/item/2163873899/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873900/apple-macbook-pro-16-2026.html": {
+   "high": 4748.89,
+   "in_stock": true,
+   "low": 4748.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/64GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 4748.89,
+   "url": "https://www.bestprice.gr/item/2163873900/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873901/apple-macbook-pro-14-2026.html": {
+   "high": 5028.89,
+   "in_stock": true,
+   "low": 5028.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/64GB/2TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 5028.89,
+   "url": "https://www.bestprice.gr/item/2163873901/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873902/apple-macbook-pro-14-2026.html": {
+   "high": 4668.89,
+   "in_stock": true,
+   "low": 4668.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/48GB/2TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 4668.89,
+   "url": "https://www.bestprice.gr/item/2163873902/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2163873903/apple-macbook-pro-14-2026.html": {
+   "high": 3562.42,
+   "in_stock": true,
+   "low": 3562.42,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 15-Core/48GB/1TB SSD/16-Core GPU)",
+   "old_price": null,
+   "price": 3562.42,
+   "url": "https://www.bestprice.gr/item/2163873903/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164002451/apple-macbook-pro-14-2026.html": {
+   "high": 6929.9,
+   "in_stock": true,
+   "low": 6929.9,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Max Chip 18-Core/64GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 6929.9,
+   "url": "https://www.bestprice.gr/item/2164002451/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164259160/apple-macbook-pro-14-2026.html": {
+   "high": 4693.63,
+   "in_stock": true,
+   "low": 4693.63,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/48GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 4693.63,
+   "url": "https://www.bestprice.gr/item/2164259160/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164349051/apple-macbook-pro-16-2026.html": {
+   "high": 5439.9,
+   "in_stock": true,
+   "low": 5439.9,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/48GB/2TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 5439.9,
+   "url": "https://www.bestprice.gr/item/2164349051/apple-macbook-pro-16-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164431533/apple-macbook-pro-14-2026-nano-texture.html": {
+   "high": 5118.89,
+   "in_stock": true,
+   "low": 5118.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 Nano-Texture (M5 Pro Chip 18-Core/64GB/2TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 5118.89,
+   "url": "https://www.bestprice.gr/item/2164431533/apple-macbook-pro-14-2026-nano-texture.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164843822/apple-macbook-pro-14-2026.html": {
+   "high": 2348.89,
+   "in_stock": true,
+   "low": 2348.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M6 Chip 12-Core/16GB/1TB SSD/12-Core GPU)",
+   "old_price": null,
+   "price": 2348.89,
+   "url": "https://www.bestprice.gr/item/2164843822/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854319/apple-macbook-pro-14-2026-touch.html": {
+   "high": 3448.89,
+   "in_stock": true,
+   "low": 3448.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 Touch (M5 Pro Chip 15-Core/24GB/1TB SSD/16-Core GPU)",
+   "old_price": null,
+   "price": 3448.89,
+   "url": "https://www.bestprice.gr/item/2164854319/apple-macbook-pro-14-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854320/apple-macbook-pro-14-2026-touch.html": {
+   "high": 3449.0,
+   "in_stock": true,
+   "low": 3449.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 Touch (M5 Pro Chip 18-Core/24GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 3449.0,
+   "url": "https://www.bestprice.gr/item/2164854320/apple-macbook-pro-14-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854321/apple-macbook-pro-14-2026-touch.html": {
+   "high": 5348.89,
+   "in_stock": true,
+   "low": 5348.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 Touch (M5 Max Chip 18-Core/36GB/2TB SSD/32-Core GPU)",
+   "old_price": null,
+   "price": 5348.89,
+   "url": "https://www.bestprice.gr/item/2164854321/apple-macbook-pro-14-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854323/apple-macbook-pro-16-2026-touch.html": {
+   "high": 4048.89,
+   "in_stock": true,
+   "low": 4048.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 Touch (M5 Pro Chip 18-Core/24GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 4048.89,
+   "url": "https://www.bestprice.gr/item/2164854323/apple-macbook-pro-16-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854324/apple-macbook-pro-16-2026-touch.html": {
+   "high": 5748.89,
+   "in_stock": true,
+   "low": 5748.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 Touch (M5 Max Chip 18-Core/36GB/2TB SSD/32-Core GPU)",
+   "old_price": null,
+   "price": 5748.89,
+   "url": "https://www.bestprice.gr/item/2164854324/apple-macbook-pro-16-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854325/apple-macbook-pro-16-2026-touch.html": {
+   "high": 6348.89,
+   "in_stock": true,
+   "low": 6348.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 Touch (M5 Max Chip 18-Core/48GB/2TB SSD/40-Core GPU)",
+   "old_price": null,
+   "price": 6348.89,
+   "url": "https://www.bestprice.gr/item/2164854325/apple-macbook-pro-16-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854694/apple-macbook-pro-14-2026.html": {
+   "high": 2598.89,
+   "in_stock": true,
+   "low": 2598.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M6 Chip 12-Core/24GB/1TB SSD/12-Core GPU)",
+   "old_price": null,
+   "price": 2598.89,
+   "url": "https://www.bestprice.gr/item/2164854694/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164854695/apple-macbook-pro-14-2026.html": {
+   "high": 2798.89,
+   "in_stock": true,
+   "low": 2798.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 (M6 Chip 12-Core/32GB/1TB SSD/12-Core GPU)",
+   "old_price": null,
+   "price": 2798.89,
+   "url": "https://www.bestprice.gr/item/2164854695/apple-macbook-pro-14-2026.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164855826/apple-macbook-pro-16-2026-touch.html": {
+   "high": 4698.89,
+   "in_stock": true,
+   "low": 4698.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" 2026 Touch (M5 Pro Chip 18-Core/48GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 4698.89,
+   "url": "https://www.bestprice.gr/item/2164855826/apple-macbook-pro-16-2026-touch.html"
+  },
+  "bestprice|www.bestprice.gr/item/2164855827/apple-macbook-pro-14-2026-touch.html": {
+   "high": 4348.89,
+   "in_stock": true,
+   "low": 4348.89,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" 2026 Touch (M5 Pro Chip 18-Core/48GB/1TB SSD/20-Core GPU)",
+   "old_price": null,
+   "price": 4348.89,
+   "url": "https://www.bestprice.gr/item/2164855827/apple-macbook-pro-14-2026-touch.html"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/303635-apple-bto-mbp-14-40cg-m3max-64gb-1tb-sl": {
+   "high": 4959.99,
+   "in_stock": true,
+   "low": 4959.99,
+   "missing": 0,
+   "name": "Apple BTO MacBook Pro 14 M3 Max 14-Core/36GB/1TB/30-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 4959.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/303635-apple-bto-mbp-14-40cg-m3max-64gb-1tb-sl"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329796-apple-mb-pro-14-m5-10-16-1t-10g-spb": {
+   "high": 2249.99,
+   "in_stock": true,
+   "low": 2249.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M5 10-Core/16GB/1TB/10-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 2249.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329796-apple-mb-pro-14-m5-10-16-1t-10g-spb"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329799-apple-mb-pro-14-m5-10-24-1t-10g-slv": {
+   "high": 2499.99,
+   "in_stock": true,
+   "low": 2499.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M5 10-Core/24GB/1TB/10-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 2499.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329799-apple-mb-pro-14-m5-10-24-1t-10g-slv"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333744-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-1tb-silver": {
+   "high": 2999.99,
+   "in_stock": true,
+   "low": 2999.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro 15-Core/24GB/1TB/16-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 2999.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333744-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-1tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333745-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-1tb-space-black": {
+   "high": 2999.99,
+   "in_stock": true,
+   "low": 2999.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro 15-Core/24GB/1TB/16-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 2999.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333745-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-1tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333746-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-2tb-silver": {
+   "high": 3599.99,
+   "in_stock": true,
+   "low": 3599.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro 15-Core/24GB/2TB/16-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 3599.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333746-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-2tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333747-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-2tb-space-black": {
+   "high": 3599.99,
+   "in_stock": true,
+   "low": 3599.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro 15-Core/24GB/2TB/16-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 3599.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333747-apple-macbook-pro-14-inch-m5-pro-15-core-cpu-16-core-gpu-24gb-ram-2tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333748-apple-macbook-pro-14-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-2tb-silver": {
+   "high": 3799.99,
+   "in_stock": true,
+   "low": 3799.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro 18-Core/24GB/2TB/20-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 3799.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333748-apple-macbook-pro-14-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-2tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333749-apple-macbook-pro-14-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-2tb-space-black": {
+   "high": 3799.99,
+   "in_stock": true,
+   "low": 3799.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro 18-Core/24GB/2TB/20-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 3799.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333749-apple-macbook-pro-14-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-2tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333750-apple-macbook-pro-14-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-silver": {
+   "high": 4949.99,
+   "in_stock": true,
+   "low": 4949.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Max 18-Core/36GB/2TB/32-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 4949.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333750-apple-macbook-pro-14-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333751-apple-macbook-pro-14-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-space-black": {
+   "high": 4949.99,
+   "in_stock": true,
+   "low": 4949.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Max 18-Core/36GB/2TB/32-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 4949.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333751-apple-macbook-pro-14-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333752-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-1tb-silver": {
+   "high": 3499.99,
+   "in_stock": true,
+   "low": 3499.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro 18-Core/24GB/1TB/20-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 3499.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333752-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-1tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333753-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-1tb-space-black": {
+   "high": 3499.99,
+   "in_stock": true,
+   "low": 3499.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro 18-Core/24GB/1TB/20-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 3499.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333753-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-24gb-ram-1tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333754-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-48gb-ram-1tb-silver": {
+   "high": 4199.99,
+   "in_stock": true,
+   "low": 4199.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16''M5 Pro 18-Core/48GB/1TB/20-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 4199.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333754-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-48gb-ram-1tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333755-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-48gb-ram-1tb-space-black": {
+   "high": 4199.99,
+   "in_stock": true,
+   "low": 4199.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro 18-Core/48GB/1TB/20-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 4199.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333755-apple-macbook-pro-16-inch-m5-pro-18-core-cpu-20-core-gpu-48gb-ram-1tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333756-apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-silver": {
+   "high": 5249.99,
+   "in_stock": true,
+   "low": 5249.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max 18-Core/36GB/2TB/32-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 5249.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333756-apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333757-apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-space-black": {
+   "high": 5249.99,
+   "in_stock": true,
+   "low": 5249.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max 18-Core/36GB/2TB/32-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 5249.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333757-apple-macbook-pro-16-inch-m5-max-18-core-cpu-32-core-gpu-36gb-ram-2tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333758-apple-macbook-pro-16-inch-m5-max-18-core-cpu-40-core-gpu-48gb-ram-2tb-silver": {
+   "high": 5849.99,
+   "in_stock": true,
+   "low": 5849.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max 18-Core/48GB/2TB/40-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 5849.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333758-apple-macbook-pro-16-inch-m5-max-18-core-cpu-40-core-gpu-48gb-ram-2tb-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333759-apple-macbook-pro-16-inch-m5-max-18-core-cpu-40-core-gpu-48gb-ram-2tb-space-black": {
+   "high": 5849.99,
+   "in_stock": true,
+   "low": 5849.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max 18-Core/48GB/2TB/40-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 5849.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/333759-apple-macbook-pro-16-inch-m5-max-18-core-cpu-40-core-gpu-48gb-ram-2tb-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342532-apple-macbook-pro-14-m6-12-core-16gb-1tb-12-core-gpu-space-black": {
+   "high": 2349.99,
+   "in_stock": true,
+   "low": 2349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M6 12-Core/16GB/1TB/12-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 2349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342532-apple-macbook-pro-14-m6-12-core-16gb-1tb-12-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342533-apple-macbook-pro-14-m6-12-core-16gb-1tb-12-core-gpu-silver": {
+   "high": 2349.99,
+   "in_stock": true,
+   "low": 2349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M6 12-Core/16GB/1TB/12-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 2349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342533-apple-macbook-pro-14-m6-12-core-16gb-1tb-12-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342534-apple-macbook-pro-14-m6-12-core-24gb-1tb-12-core-gpu-space-black": {
+   "high": 2599.99,
+   "in_stock": true,
+   "low": 2599.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M6 12-Core/24GB/1TB/12-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 2599.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342534-apple-macbook-pro-14-m6-12-core-24gb-1tb-12-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342535-apple-macbook-pro-14-m6-12-core-24gb-1tb-12-core-gpu-silver": {
+   "high": 2599.99,
+   "in_stock": true,
+   "low": 2599.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M6 12-Core/24GB/1TB/12-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 2599.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342535-apple-macbook-pro-14-m6-12-core-24gb-1tb-12-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342536-apple-macbook-pro-14-m6-12-core-32gb-1tb-12-core-gpu-space-black": {
+   "high": 2799.99,
+   "in_stock": true,
+   "low": 2799.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M6 12-Core/32GB/1TB/12-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 2799.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342536-apple-macbook-pro-14-m6-12-core-32gb-1tb-12-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342537-apple-macbook-pro-14-m6-12-core-32gb-1tb-12-core-gpu-silver": {
+   "high": 2799.99,
+   "in_stock": true,
+   "low": 2799.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14 M6 12-Core/32GB/1TB/12-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 2799.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342537-apple-macbook-pro-14-m6-12-core-32gb-1tb-12-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342538-apple-macbook-pro-14-proled-xdr-m5-pro-15-core-24gb-1tb-16-core-gpu-silver": {
+   "high": 3449.99,
+   "in_stock": true,
+   "low": 3449.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro Chip PROLED XDR Display 15-Core/24GB/1TB/16-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 3449.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342538-apple-macbook-pro-14-proled-xdr-m5-pro-15-core-24gb-1tb-16-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342539-apple-macbook-pro-14-proled-xdr-m5-pro-15-core-24gb-1tb-16-core-gpu-space-black": {
+   "high": 3449.99,
+   "in_stock": true,
+   "low": 3449.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro Chip PROLED XDR Display 15-Core/24GB/1TB/16-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 3449.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342539-apple-macbook-pro-14-proled-xdr-m5-pro-15-core-24gb-1tb-16-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342540-apple-macbook-pro-14-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-silver": {
+   "high": 4349.99,
+   "in_stock": true,
+   "low": 4349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro Chip PROLED XDR Display 18-Core/48GB/1TB/20-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 4349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342540-apple-macbook-pro-14-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342541-apple-macbook-pro-14-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-space-black": {
+   "high": 4349.99,
+   "in_stock": true,
+   "low": 4349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Pro Chip PROLED XDR Display 18-Core/48GB/1TB/20-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 4349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342541-apple-macbook-pro-14-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342542-apple-macbook-pro-14-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-silver": {
+   "high": 5349.99,
+   "in_stock": true,
+   "low": 5349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Max Chip PROLED XDR Display 18-Core/36GB/2TB/32-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 5349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342542-apple-macbook-pro-14-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342543-apple-macbook-pro-14-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-space-black": {
+   "high": 5349.99,
+   "in_stock": true,
+   "low": 5349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14'' M5 Max Chip PROLED XDR Display 18-Core/36GB/2TB/32-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 5349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342543-apple-macbook-pro-14-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342544-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-24gb-1tb-20-core-gpu-silver": {
+   "high": 4049.99,
+   "in_stock": true,
+   "low": 4049.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro Chip PROLED XDR Display 18-Core/24GB/1TB/20-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 4049.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342544-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-24gb-1tb-20-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342545-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-24gb-1tb-20-core-gpu-space-black": {
+   "high": 4049.99,
+   "in_stock": true,
+   "low": 4049.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro Chip PROLED XDR Display 18-Core/24GB/1TB/20-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 4049.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342545-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-24gb-1tb-20-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342546-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-silver": {
+   "high": 4699.99,
+   "in_stock": true,
+   "low": 4699.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro Chip PROLED XDR Display 18-Core/48GB/1TB/20-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 4699.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342546-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342547-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-space-black": {
+   "high": 4699.99,
+   "in_stock": true,
+   "low": 4699.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Pro Chip PROLED XDR Display 18-Core/48GB/1TB/20-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 4699.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342547-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-48gb-1tb-20-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342548-apple-macbook-pro-16-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-silver": {
+   "high": 5749.99,
+   "in_stock": true,
+   "low": 5749.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max Chip PROLED XDR Display 18-Core/36GB/2TB/32-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 5749.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342548-apple-macbook-pro-16-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342549-apple-macbook-pro-16-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-space-black": {
+   "high": 5749.99,
+   "in_stock": true,
+   "low": 5749.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16''M5 Max Chip PROLED XDR Display 18-Core/36GB/2TB/32-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 5749.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342549-apple-macbook-pro-16-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-space-black"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342550-apple-macbook-pro-16-proled-xdr-m5-max-18-core-48gb-2tb-40-core-gpu-silver": {
+   "high": 6349.99,
+   "in_stock": true,
+   "low": 6349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max Chip PROLED XDR Display 18-Core/48GB/2TB/40-Core GPU Silver Laptop",
+   "old_price": null,
+   "price": 6349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342550-apple-macbook-pro-16-proled-xdr-m5-max-18-core-48gb-2tb-40-core-gpu-silver"
+  },
+  "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342551-apple-macbook-pro-16-proled-xdr-m5-max-18-core-48gb-2tb-40-core-gpu-space-black": {
+   "high": 6349.99,
+   "in_stock": true,
+   "low": 6349.99,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16'' M5 Max Chip PROLED XDR Display 18-Core/48GB/2TB/40-Core GPU Space Black Laptop",
+   "old_price": null,
+   "price": 6349.99,
+   "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342551-apple-macbook-pro-16-proled-xdr-m5-max-18-core-48gb-2tb-40-core-gpu-space-black"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores16gb1tb-ssd10-cores-gpumacos-silver/2073367": {
+   "high": 2249.0,
+   "in_stock": null,
+   "low": 2249.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Chip QHD+ (Apple M5 10 Cores/16GB/1TB SSD/10 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2249.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores16gb1tb-ssd10-cores-gpumacos-silver/2073367"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores16gb1tb-ssd10-cores-gpumacos-space-black/2073366": {
+   "high": 2249.0,
+   "in_stock": null,
+   "low": 2249.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Chip QHD+ (Apple M5 10 Cores/16GB/1TB SSD/10 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2249.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores16gb1tb-ssd10-cores-gpumacos-space-black/2073366"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores24gb1tb-ssd10-cores-gpumacos-silver/2073369": {
+   "high": 2499.0,
+   "in_stock": null,
+   "low": 2499.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Chip QHD+ (Apple M5 10 Cores/24GB/1TB SSD/10 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2499.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores24gb1tb-ssd10-cores-gpumacos-silver/2073369"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores24gb1tb-ssd10-cores-gpumacos-space-black/2073368": {
+   "high": 2499.0,
+   "in_stock": null,
+   "low": 2499.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Chip QHD+ (Apple M5 10 Cores/24GB/1TB SSD/10 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2499.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores24gb1tb-ssd10-cores-gpumacos-space-black/2073368"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores32gb1tb-ssd10-cores-gpumacos-silver/2073371": {
+   "high": 2699.0,
+   "in_stock": null,
+   "low": 2699.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Chip QHD+ (Apple M5 10 Cores/32GB/1TB SSD/10 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2699.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores32gb1tb-ssd10-cores-gpumacos-silver/2073371"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores32gb1tb-ssd10-cores-gpumacos-space-black/2073370": {
+   "high": 2699.0,
+   "in_stock": null,
+   "low": 2699.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Chip QHD+ (Apple M5 10 Cores/32GB/1TB SSD/10 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2699.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-chip-qhd-apple-m5-10-cores32gb1tb-ssd10-cores-gpumacos-space-black/2073370"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2073377": {
+   "high": 4949.0,
+   "in_stock": null,
+   "low": 4949.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 4949.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2073377"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2073376": {
+   "high": 4949.0,
+   "in_stock": null,
+   "low": 4949.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 4949.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2073376"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb1tb-ssd16-cores-gpumacos-silver/2073373": {
+   "high": 2999.0,
+   "in_stock": null,
+   "low": 2999.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Pro Chip QHD+ (Apple M5 Pro 15 Cores/24GB/1TB SSD/16 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2999.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb1tb-ssd16-cores-gpumacos-silver/2073373"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb1tb-ssd16-cores-gpumacos-space-black/2073372": {
+   "high": 2999.0,
+   "in_stock": null,
+   "low": 2999.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Pro Chip QHD+ (Apple M5 Pro 15 Cores/24GB/1TB SSD/16 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2999.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb1tb-ssd16-cores-gpumacos-space-black/2073372"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb2tb-ssd16-cores-gpumacos-space-black/2073374": {
+   "high": 3599.0,
+   "in_stock": null,
+   "low": 3599.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Pro Chip QHD+ (Apple M5 Pro 15 Cores/24GB/2TB SSD/16 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 3599.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb2tb-ssd16-cores-gpumacos-space-black/2073374"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-silver/2114160": {
+   "high": 3799.0,
+   "in_stock": null,
+   "low": 3799.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/24GB/2TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 3799.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-silver/2114160"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-space-black/2114159": {
+   "high": 3799.0,
+   "in_stock": null,
+   "low": 3799.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/24GB/2TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 3799.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-space-black/2114159"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores16-gb1tb-ssd12-cores-gpumacos-silver/2181358": {
+   "high": 2350.0,
+   "in_stock": null,
+   "low": 2350.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/16 GB/1TB SSD/12 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2350.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores16-gb1tb-ssd12-cores-gpumacos-silver/2181358"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores16-gb1tb-ssd12-cores-gpumacos-space-black/2181357": {
+   "high": 2350.0,
+   "in_stock": null,
+   "low": 2350.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/16 GB/1TB SSD/12 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2350.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores16-gb1tb-ssd12-cores-gpumacos-space-black/2181357"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores24-gb1tb-ssd12-cores-gpumacos-silver/2181360": {
+   "high": 2599.0,
+   "in_stock": null,
+   "low": 2599.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/24 GB/1TB SSD/12 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2599.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores24-gb1tb-ssd12-cores-gpumacos-silver/2181360"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores24-gb1tb-ssd12-cores-gpumacos-space-black/2181359": {
+   "high": 2599.0,
+   "in_stock": null,
+   "low": 2599.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/24 GB/1TB SSD/12 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2599.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores24-gb1tb-ssd12-cores-gpumacos-space-black/2181359"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores32-gb1tb-ssd12-cores-gpumacos-silver/2181362": {
+   "high": 2799.0,
+   "in_stock": null,
+   "low": 2799.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/32 GB/1TB SSD/12 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 2799.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores32-gb1tb-ssd12-cores-gpumacos-silver/2181362"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores32-gb1tb-ssd12-cores-gpumacos-space-black/2181361": {
+   "high": 2799.0,
+   "in_stock": null,
+   "low": 2799.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/32 GB/1TB SSD/12 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 2799.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m6-chip-qhd-apple-m6-12-cores32-gb1tb-ssd12-cores-gpumacos-space-black/2181361"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2073383": {
+   "high": 5248.0,
+   "in_stock": null,
+   "low": 5248.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 5248.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2073383"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2073382": {
+   "high": 5248.0,
+   "in_stock": null,
+   "low": 5248.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 5248.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2073382"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-silver/2114162": {
+   "high": 5848.0,
+   "in_stock": null,
+   "low": 5848.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/48GB/2TB SSD/40 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 5848.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-silver/2114162"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-space-black/2114161": {
+   "high": 5848.0,
+   "in_stock": null,
+   "low": 5848.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/48GB/2TB SSD/40 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 5848.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-max-chip-qhd-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-space-black/2114161"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb1tb-ssd20-cores-gpumacos-space-black/2073378": {
+   "high": 3498.0,
+   "in_stock": null,
+   "low": 3498.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/24GB/1TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 3498.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb1tb-ssd20-cores-gpumacos-space-black/2073378"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-pro-chip-qhd-apple-m5-pro-18-cores48gb1tb-ssd20-cores-gpumacos-space-black/2073380": {
+   "high": 4199.0,
+   "in_stock": null,
+   "low": 4199.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro 16\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/48GB/1TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 4199.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-16-m5-pro-chip-qhd-apple-m5-pro-18-cores48gb1tb-ssd20-cores-gpumacos-space-black/2073380"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-mge44gra-16-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb1tb-ssd20-cores-gpumacos-silver/2073379": {
+   "high": 3498.0,
+   "in_stock": null,
+   "low": 3498.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro MGE44GR/A 16\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/24GB/1TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 3498.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-mge44gra-16-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb1tb-ssd20-cores-gpumacos-silver/2073379"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-mge64gra-16-m5-pro-chip-qhd-apple-m5-pro-18-cores48gb1tb-ssd20-cores-gpumacos-silver/2073381": {
+   "high": 4199.0,
+   "in_stock": null,
+   "low": 4199.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro MGE64GR/A 16\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/48GB/1TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 4199.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-mge64gra-16-m5-pro-chip-qhd-apple-m5-pro-18-cores48gb1tb-ssd20-cores-gpumacos-silver/2073381"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-mjlv4gra-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb2tb-ssd16-cores-gpumacos-silver/2073375": {
+   "high": 3599.0,
+   "in_stock": null,
+   "low": 3599.0,
+   "missing": 0,
+   "name": "Apple MacBook Pro MJLV4GR/A 14\" M5 Pro Chip QHD+ (Apple M5 Pro 15 Cores/24GB/2TB SSD/16 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 3599.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-mjlv4gra-14-m5-pro-chip-qhd-apple-m5-pro-15-cores24gb2tb-ssd16-cores-gpumacos-silver/2073375"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2181847": {
+   "high": 5349.0,
+   "in_stock": null,
+   "low": 5349.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 14\" M5 Max Chip (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 5349.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2181847"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2181848": {
+   "high": 5349.0,
+   "in_stock": null,
+   "low": 5349.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 14\" M5 Max Chip (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 5349.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2181848"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-15-cores-24gb-1tb-ssd20-cores-gpumacos-silver/2181363": {
+   "high": 3449.0,
+   "in_stock": null,
+   "low": 3449.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 14\" M5 Pro Chip (Apple M5 Pro 15 Cores/ 24GB/ 1TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 3449.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-15-cores-24gb-1tb-ssd20-cores-gpumacos-silver/2181363"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-15-cores-24gb-1tb-ssd20-cores-gpumacos-space-black/2181364": {
+   "high": 3449.0,
+   "in_stock": null,
+   "low": 3449.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 14\" M5 Pro Chip (Apple M5 Pro 15 Cores/ 24GB/ 1TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 3449.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-15-cores-24gb-1tb-ssd20-cores-gpumacos-space-black/2181364"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-silver/2181845": {
+   "high": 4349.0,
+   "in_stock": null,
+   "low": 4349.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 14\" M5 Pro Chip (Apple M5 Pro 18 Cores/ 48GB/ 1TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 4349.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-silver/2181845"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181846": {
+   "high": 4349.0,
+   "in_stock": null,
+   "low": 4349.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 14\" M5 Pro Chip (Apple M5 Pro 18 Cores/ 48GB/ 1TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 4349.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-14-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181846"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2181853": {
+   "high": 5749.0,
+   "in_stock": null,
+   "low": 5749.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Max Chip (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 5749.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2181853"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2181854": {
+   "high": 5749.0,
+   "in_stock": null,
+   "low": 5749.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Max Chip (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 5749.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2181854"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-silver/2181855": {
+   "high": 6349.0,
+   "in_stock": null,
+   "low": 6349.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Max Chip (Apple M5 Max 18 Cores/48GB/2TB SSD/40 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 6349.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-silver/2181855"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-space-black/2181856": {
+   "high": 6349.0,
+   "in_stock": null,
+   "low": 6349.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Max Chip (Apple M5 Max 18 Cores/48GB/2TB SSD/40 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 6349.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-max-chip-apple-m5-max-18-cores48gb2tb-ssd40-cores-gpumacos-space-black/2181856"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-24gb-1tb-ssd20-cores-gpumacos-silver/2181849": {
+   "high": 4049.0,
+   "in_stock": null,
+   "low": 4049.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Pro Chip (Apple M5 Pro 18 Cores/ 24GB/ 1TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 4049.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-24gb-1tb-ssd20-cores-gpumacos-silver/2181849"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-24gb-1tb-ssd20-cores-gpumacos-space-black/2181850": {
+   "high": 4049.0,
+   "in_stock": null,
+   "low": 4049.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Pro Chip (Apple M5 Pro 18 Cores/ 24GB/ 1TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 4049.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-24gb-1tb-ssd20-cores-gpumacos-space-black/2181850"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-silver/2181851": {
+   "high": 4699.0,
+   "in_stock": null,
+   "low": 4699.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Pro Chip (Apple M5 Pro 18 Cores/ 48GB/ 1TB SSD/20 Cores GPU/macOS) Silver",
+   "old_price": null,
+   "price": 4699.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-silver/2181851"
+  },
+  "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181852": {
+   "high": 4699.0,
+   "in_stock": null,
+   "low": 4699.0,
+   "missing": 0,
+   "name": "Apple Macbook Pro with PROLED XDR Touch 16\" M5 Pro Chip (Apple M5 Pro 18 Cores/ 48GB/ 1TB SSD/20 Cores GPU/macOS) Space Black",
+   "old_price": null,
+   "price": 4699.0,
+   "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181852"
+  }
+ }
+}
