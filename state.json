@@ -112,7 +112,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/24GB/1TB SSD/10-Core GPU)",
    "old_price": null,
-   "price": 2488.68,
+   "price": 2385.0,
    "url": "https://www.bestprice.gr/item/2162809639/apple-macbook-pro-14-2025.html"
   },
   "bestprice|www.bestprice.gr/item/2163724842/apple-macbook-pro-14-2026.html": {
@@ -1336,5 +1336,5 @@
    "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181852"
   }
  },
- "report": "2026-W44"
+ "report": "2026-W45"
 }
