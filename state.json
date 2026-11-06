@@ -42,7 +42,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 13\" 2022 (M2 chip 8-Core/8GB/256GB SSD/10-Core GPU)",
    "old_price": null,
-   "price": 1499.0,
+   "price": 1399.0,
    "url": "https://www.bestprice.gr/item/2157660418/apple-macbook-pro-13-2022.html"
   },
   "bestprice|www.bestprice.gr/item/2159167301/apple-macbook-pro-14-2023.html": {
@@ -389,7 +389,7 @@
    "high": 4693.63,
    "in_stock": true,
    "low": 4693.63,
-   "missing": 0,
+   "missing": 1,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/48GB/1TB SSD/20-Core GPU)",
    "old_price": null,
    "price": 4693.63,
@@ -399,7 +399,7 @@
    "high": 5439.9,
    "in_stock": true,
    "low": 5331.1,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/48GB/2TB SSD/20-Core GPU)",
    "old_price": null,
    "price": 5439.9,
