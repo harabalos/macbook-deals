@@ -178,11 +178,11 @@
   "bestprice|www.bestprice.gr/item/2163724847/apple-macbook-pro-16-2026.html": {
    "high": 5193.95,
    "in_stock": true,
-   "low": 5099.0,
+   "low": 5098.95,
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/48GB/2TB SSD/40-Core GPU)",
    "old_price": null,
-   "price": 5099.0,
+   "price": 5098.95,
    "url": "https://www.bestprice.gr/item/2163724847/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163726546/apple-macbook-pro-14-2026.html": {
@@ -887,7 +887,7 @@
   },
   "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342544-apple-macbook-pro-16-proled-xdr-m5-pro-18-core-24gb-1tb-20-core-gpu-silver": {
    "high": 4049.99,
-   "in_stock": true,
+   "in_stock": false,
    "low": 4049.99,
    "missing": 0,
    "name": "Apple MacBook Pro 16'' M5 Pro Chip PROLED XDR Display 18-Core/24GB/1TB/20-Core GPU Silver Laptop",
