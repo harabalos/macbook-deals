@@ -837,7 +837,7 @@
   },
   "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342539-apple-macbook-pro-14-proled-xdr-m5-pro-15-core-24gb-1tb-16-core-gpu-space-black": {
    "high": 3449.99,
-   "in_stock": true,
+   "in_stock": false,
    "low": 3449.99,
    "missing": 0,
    "name": "Apple MacBook Pro 14'' M5 Pro Chip PROLED XDR Display 15-Core/24GB/1TB/16-Core GPU Space Black Laptop",
@@ -1386,5 +1386,5 @@
    "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181852"
   }
  },
- "report": "2026-W45"
+ "report": "2026-W46"
 }
