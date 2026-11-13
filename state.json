@@ -508,11 +508,11 @@
   "bestprice|www.bestprice.gr/item/2164854694/apple-macbook-pro-14-2026.html": {
    "high": 2598.89,
    "in_stock": true,
-   "low": 2598.89,
+   "low": 2372.96,
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M6 Chip 12-Core/24GB/1TB SSD/12-Core GPU)",
    "old_price": null,
-   "price": 2598.89,
+   "price": 2372.96,
    "url": "https://www.bestprice.gr/item/2164854694/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2164854695/apple-macbook-pro-14-2026.html": {
@@ -1028,11 +1028,11 @@
   "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2073377": {
    "high": 4949.0,
    "in_stock": null,
-   "low": 4949.0,
+   "low": 4599.0,
    "missing": 0,
    "name": "Apple MacBook Pro 14\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/36GB/2TB SSD/32 Cores GPU/macOS) Silver",
    "old_price": null,
-   "price": 4949.0,
+   "price": 4599.0,
    "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-silver/2073377"
   },
   "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-max-chip-qhd-apple-m5-max-18-cores36gb2tb-ssd32-cores-gpumacos-space-black/2073376": {
@@ -1078,11 +1078,11 @@
   "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-silver/2114160": {
    "high": 3799.0,
    "in_stock": null,
-   "low": 3799.0,
+   "low": 3449.0,
    "missing": 0,
    "name": "Apple MacBook Pro 14\" M5 Pro Chip QHD+ (Apple M5 Pro 18 Cores/24GB/2TB SSD/20 Cores GPU/macOS) Silver",
    "old_price": null,
-   "price": 3799.0,
+   "price": 3449.0,
    "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-silver/2114160"
   },
   "public|www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-14-m5-pro-chip-qhd-apple-m5-pro-18-cores24gb2tb-ssd20-cores-gpumacos-space-black/2114159": {
