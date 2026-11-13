@@ -372,7 +372,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 15-Core/48GB/1TB SSD/16-Core GPU)",
    "old_price": null,
-   "price": 3778.89,
+   "price": 3588.53,
    "url": "https://www.bestprice.gr/item/2163873903/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2164002451/apple-macbook-pro-14-2026.html": {
@@ -847,7 +847,7 @@
   },
   "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342539-apple-macbook-pro-14-proled-xdr-m5-pro-15-core-24gb-1tb-16-core-gpu-space-black": {
    "high": 3449.99,
-   "in_stock": true,
+   "in_stock": false,
    "low": 3449.99,
    "missing": 0,
    "name": "Apple MacBook Pro 14'' M5 Pro Chip PROLED XDR Display 15-Core/24GB/1TB/16-Core GPU Space Black Laptop",
@@ -1149,7 +1149,7 @@
    "high": 2799.0,
    "in_stock": null,
    "low": 2799.0,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 14\" M6 Chip QHD+ (Apple M6 12 Cores/32 GB/1TB SSD/12 Cores GPU/macOS) Silver",
    "old_price": null,
    "price": 2799.0,
