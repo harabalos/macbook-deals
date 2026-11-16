@@ -1,5 +1,10 @@
 {
- "health": {},
+ "health": {
+  "bestprice": {
+   "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.bestprice.gr/cat/2591/laptops/f/1_9/apple-macbook.html\nCall log:\n  - navigating to \"https://www.bestprice.gr/cat/2591/laptops/f/1_9/apple-macbook.html\", waiting until \"domcontentloaded\"\n",
+   "fails": 1
+  }
+ },
  "mail": {
   "last_uid": 1146,
   "uidvalidity": 1
@@ -1396,5 +1401,5 @@
    "url": "https://www.public.gr/product/computers-and-software/laptops/apple-macbook-pro-with-proled-xdr-touch-16-m5-pro-chip-apple-m5-pro-18-cores-48gb-1tb-ssd20-cores-gpumacos-space-black/2181852"
   }
  },
- "report": "2026-W46"
+ "report": "2026-W47"
 }
