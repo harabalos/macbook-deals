@@ -1,5 +1,10 @@
 {
- "health": {},
+ "health": {
+  "bestprice": {
+   "error": "RuntimeError: βρέθηκαν 0 MacBook Pro (άλλαξε η σελίδα;)",
+   "fails": 1
+  }
+ },
  "mail": {
   "last_uid": 1147,
   "uidvalidity": 1
@@ -619,7 +624,7 @@
    "high": 2249.99,
    "in_stock": true,
    "low": 1399.99,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 14 M5 10-Core/16GB/1TB/10-Core GPU Space Black Laptop",
    "old_price": 2249.99,
    "price": 1399.99,
@@ -967,7 +972,7 @@
   },
   "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/342549-apple-macbook-pro-16-proled-xdr-m5-max-18-core-36gb-2tb-32-core-gpu-space-black": {
    "high": 5749.99,
-   "in_stock": true,
+   "in_stock": false,
    "low": 5749.99,
    "missing": 0,
    "name": "Apple MacBook Pro 16''M5 Max Chip PROLED XDR Display 18-Core/36GB/2TB/32-Core GPU Space Black Laptop",
