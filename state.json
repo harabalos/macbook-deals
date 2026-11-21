@@ -112,7 +112,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/16GB/1TB SSD/10-Core GPU)",
    "old_price": null,
-   "price": 2059.7,
+   "price": 1399.99,
    "url": "https://www.bestprice.gr/item/2162809637/apple-macbook-pro-14-2025.html"
   },
   "bestprice|www.bestprice.gr/item/2162809639/apple-macbook-pro-14-2025.html": {
@@ -609,7 +609,7 @@
    "high": 1399.0,
    "in_stock": null,
    "low": 1399.0,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 14 M5 10-Core/16GB/512GB/10-Core GPU Space Black Laptop",
    "old_price": null,
    "price": 1399.0,
@@ -618,11 +618,11 @@
   "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329796-apple-mb-pro-14-m5-10-16-1t-10g-spb": {
    "high": 2249.99,
    "in_stock": true,
-   "low": 2249.99,
+   "low": 1399.99,
    "missing": 0,
    "name": "Apple MacBook Pro 14 M5 10-Core/16GB/1TB/10-Core GPU Space Black Laptop",
-   "old_price": null,
-   "price": 2249.99,
+   "old_price": 2249.99,
+   "price": 1399.99,
    "url": "https://www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329796-apple-mb-pro-14-m5-10-16-1t-10g-spb"
   },
   "kotsovolos|www.kotsovolos.gr/computing/laptop-tablet-ipad/notebook-macbook-ultrabook/329799-apple-mb-pro-14-m5-10-24-1t-10g-slv": {
