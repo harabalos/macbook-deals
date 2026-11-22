@@ -1,5 +1,10 @@
 {
- "health": {},
+ "health": {
+  "bestprice": {
+   "error": "RuntimeError: βρέθηκαν 0 MacBook Pro (άλλαξε η σελίδα;)",
+   "fails": 1
+  }
+ },
  "mail": {
   "last_uid": 1147,
   "uidvalidity": 1
