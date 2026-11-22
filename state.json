@@ -1,10 +1,5 @@
 {
- "health": {
-  "bestprice": {
-   "error": "RuntimeError: βρέθηκαν 0 MacBook Pro (άλλαξε η σελίδα;)",
-   "fails": 1
-  }
- },
+ "health": {},
  "mail": {
   "last_uid": 1147,
   "uidvalidity": 1
@@ -111,13 +106,13 @@
    "url": "https://www.bestprice.gr/item/2162794420/apple-macbook-pro-14-2023.html"
   },
   "bestprice|www.bestprice.gr/item/2162809637/apple-macbook-pro-14-2025.html": {
-   "high": 2079.85,
+   "high": 2094.03,
    "in_stock": true,
    "low": 1399.99,
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/16GB/1TB SSD/10-Core GPU)",
    "old_price": null,
-   "price": 2059.7,
+   "price": 2094.03,
    "url": "https://www.bestprice.gr/item/2162809637/apple-macbook-pro-14-2025.html"
   },
   "bestprice|www.bestprice.gr/item/2162809639/apple-macbook-pro-14-2025.html": {
@@ -127,7 +122,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2025 (M5 Chip 10-Core/24GB/1TB SSD/10-Core GPU)",
    "old_price": null,
-   "price": 2364.47,
+   "price": 2403.88,
    "url": "https://www.bestprice.gr/item/2162809639/apple-macbook-pro-14-2025.html"
   },
   "bestprice|www.bestprice.gr/item/2163724842/apple-macbook-pro-14-2026.html": {
@@ -137,7 +132,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 15-Core/24GB/1TB SSD/16-Core GPU)",
    "old_price": null,
-   "price": 2385.16,
+   "price": 2621.11,
    "url": "https://www.bestprice.gr/item/2163724842/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163724843/apple-macbook-pro-14-2026.html": {
@@ -147,7 +142,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Max Chip 18-Core/36GB/2TB SSD/32-Core GPU)",
    "old_price": null,
-   "price": 3565.69,
+   "price": 3625.12,
    "url": "https://www.bestprice.gr/item/2163724843/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163724844/apple-macbook-pro-14-2026.html": {
@@ -167,7 +162,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/24GB/1TB SSD/20-Core GPU)",
    "old_price": null,
-   "price": 3121.04,
+   "price": 3173.06,
    "url": "https://www.bestprice.gr/item/2163724845/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163724846/apple-macbook-pro-16-2026.html": {
@@ -177,7 +172,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/36GB/2TB SSD/32-Core GPU)",
    "old_price": null,
-   "price": 4334.58,
+   "price": 4406.82,
    "url": "https://www.bestprice.gr/item/2163724846/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163724847/apple-macbook-pro-16-2026.html": {
@@ -207,7 +202,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/24GB/2TB SSD/20-Core GPU)",
    "old_price": null,
-   "price": 2842.92,
+   "price": 2890.3,
    "url": "https://www.bestprice.gr/item/2163726547/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163726548/apple-macbook-pro-16-2026.html": {
@@ -267,7 +262,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/128GB/2TB SSD/40-Core GPU)",
    "old_price": null,
-   "price": 7495.01,
+   "price": 7619.92,
    "url": "https://www.bestprice.gr/item/2163873669/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163873670/apple-macbook-pro-16-2026-nano-texture.html": {
@@ -347,7 +342,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/64GB/1TB SSD/20-Core GPU)",
    "old_price": null,
-   "price": 4371.86,
+   "price": 4444.73,
    "url": "https://www.bestprice.gr/item/2163873900/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163873901/apple-macbook-pro-14-2026.html": {
@@ -437,7 +432,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M6 Chip 12-Core/16GB/1TB SSD/12-Core GPU)",
    "old_price": null,
-   "price": 2162.68,
+   "price": 2198.72,
    "url": "https://www.bestprice.gr/item/2164843822/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2164854319/apple-macbook-pro-14-2026-touch.html": {
@@ -517,7 +512,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M6 Chip 12-Core/24GB/1TB SSD/12-Core GPU)",
    "old_price": null,
-   "price": 2368.63,
+   "price": 2408.11,
    "url": "https://www.bestprice.gr/item/2164854694/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2164854695/apple-macbook-pro-14-2026.html": {
