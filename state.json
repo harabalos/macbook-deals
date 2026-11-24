@@ -1,5 +1,10 @@
 {
- "health": {},
+ "health": {
+  "bestprice": {
+   "error": "Error: Page.goto: net::ERR_CONNECTION_RESET at https://www.bestprice.gr/cat/2591/laptops/f/1_9/apple-macbook.html\nCall log:\n  - navigating to \"https://www.bestprice.gr/cat/2591/laptops/f/1_9/apple-macbook.html\", waiting until \"domcontentloaded\"\n",
+   "fails": 1
+  }
+ },
  "mail": {
   "last_uid": 1147,
   "uidvalidity": 1
