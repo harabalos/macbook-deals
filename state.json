@@ -1,10 +1,5 @@
 {
- "health": {
-  "bestprice": {
-   "error": "RuntimeError: βρέθηκαν 0 MacBook Pro (άλλαξε η σελίδα;)",
-   "fails": 1
-  }
- },
+ "health": {},
  "mail": {
   "last_uid": 1147,
   "uidvalidity": 1
@@ -187,7 +182,7 @@
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Max Chip 18-Core/48GB/2TB SSD/40-Core GPU)",
    "old_price": null,
-   "price": 4498.0,
+   "price": 4499.99,
    "url": "https://www.bestprice.gr/item/2163724847/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163726546/apple-macbook-pro-14-2026.html": {
@@ -207,17 +202,17 @@
    "missing": 0,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 18-Core/24GB/2TB SSD/20-Core GPU)",
    "old_price": null,
-   "price": 2999.25,
+   "price": 3318.88,
    "url": "https://www.bestprice.gr/item/2163726547/apple-macbook-pro-14-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163726548/apple-macbook-pro-16-2026.html": {
-   "high": 3780.58,
+   "high": 4038.45,
    "in_stock": true,
    "low": 3199.0,
    "missing": 0,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/48GB/1TB SSD/20-Core GPU)",
    "old_price": null,
-   "price": 3199.0,
+   "price": 4038.45,
    "url": "https://www.bestprice.gr/item/2163726548/apple-macbook-pro-16-2026.html"
   },
   "bestprice|www.bestprice.gr/item/2163726549/apple-macbook-pro-14-2025.html": {
@@ -404,7 +399,7 @@
    "high": 3973.3,
    "in_stock": true,
    "low": 3959.05,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 14\" 2026 (M5 Pro Chip 15-Core/64GB/1TB SSD/16-Core GPU)",
    "old_price": null,
    "price": 3959.05,
@@ -414,7 +409,7 @@
    "high": 5439.9,
    "in_stock": true,
    "low": 4633.69,
-   "missing": 0,
+   "missing": 1,
    "name": "Apple MacBook Pro 16\" 2026 (M5 Pro Chip 18-Core/48GB/2TB SSD/20-Core GPU)",
    "old_price": null,
    "price": 4635.78,
@@ -644,7 +639,7 @@
    "high": 2499.99,
    "in_stock": null,
    "low": 2499.99,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 14 M5 10-Core/24GB/1TB/10-Core GPU Silver Laptop",
    "old_price": null,
    "price": 2499.99,
@@ -1224,7 +1219,7 @@
    "high": 5850.0,
    "in_stock": null,
    "low": 4498.0,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 16\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/48GB/2TB SSD/40 Cores GPU/macOS) Silver",
    "old_price": null,
    "price": 4498.0,
@@ -1234,7 +1229,7 @@
    "high": 5850.0,
    "in_stock": null,
    "low": 4498.0,
-   "missing": 1,
+   "missing": 2,
    "name": "Apple MacBook Pro 16\" M5 Max Chip QHD+ (Apple M5 Max 18 Cores/48GB/2TB SSD/40 Cores GPU/macOS) Space Black",
    "old_price": null,
    "price": 4498.0,
